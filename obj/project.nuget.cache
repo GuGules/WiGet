@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIkRoobRRss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gugul\\source\\repos\\WinFormsApp1\\WiGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gugul\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\gugul\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
