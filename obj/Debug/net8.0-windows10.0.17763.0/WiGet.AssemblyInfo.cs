@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WiGet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930ab67fd5a71c9caa467241c1b249877efda1a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe016cb07aad64e26377ca4e46469b35edeadf6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WiGet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WiGet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
